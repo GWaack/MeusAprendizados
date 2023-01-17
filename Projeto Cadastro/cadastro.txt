@@ -1,0 +1,7 @@
+Lucas;55
+Pedro;47
+Marina;35
+José;55
+Guilherme;27
+Lucas;12
+Osvaldo;29
